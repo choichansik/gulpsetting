@@ -11,6 +11,12 @@
   "author": "Chansik,Choi",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
-  }
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.21.0",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  },
+  "type": "module"
 }
